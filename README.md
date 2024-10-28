@@ -20,15 +20,15 @@ This lab concentrates on managing user authentication and authorization in a Lin
 
 <h2>Technical Skills </h2>
 
-1.Operating Systems: Linux
+1. Operating Systems: Linux
 
-2.System Administration: User and group management, file permissions, and ownership
+2. System Administration: User and group management, file permissions, and ownership
 
-3.Security Practices: Authentication and authorization management
+3. Security Practices: Authentication and authorization management
 
-4.Command-Line Tools: useradd, usermod, userdel, chown, groupdel
+4. Command-Line Tools: useradd, usermod, userdel, chown, groupdel
 
-5.Scripting: Bash shell proficiency
+5. Scripting: Bash shell proficiency
 
 <h2>Program walk-through:</h2>
 
